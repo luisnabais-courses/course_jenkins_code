@@ -1,5 +1,5 @@
 <?php
 
-echo "Our website, v0.1";
+echo "Our website, v0.2";
 
 ?>
