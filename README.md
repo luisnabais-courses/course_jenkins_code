@@ -1,1 +1,1 @@
-Project moved to https://gitlab.com/luisnabais_courses/course_jenkins_code
+Code used in project https://github.com/luisnabais/course_jenkins
